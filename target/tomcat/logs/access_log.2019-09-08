@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:20:56:57 -0300] "GET /addContato?nome=douglas&email=douglas&endereco=douglas HTTP/1.1" 500 4537 http-bio-8080-exec-1 16203
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:20:56:59 -0300] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 8
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:20:59:26 -0300] "GET /addContato?nome=douglas&email=douglas&endereco=douglas HTTP/1.1" 500 4537 http-bio-8080-exec-2 15933
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:01:09 -0300] "GET /addContato?nome=douglas&email=douglas&endereco=douglas HTTP/1.1" 500 4537 http-bio-8080-exec-2 16189
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:09:41 -0300] "GET /addContato?nome=douglas&email=douglas&endereco=douglas HTTP/1.1" 500 4473 http-bio-8080-exec-2 16093
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:11:44 -0300] "GET /addContato?nome=douglas&email=douglas&endereco=douglas HTTP/1.1" 500 4537 http-bio-8080-exec-1 15927
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:20:24 -0300] "GET /addContato?nome=d&email=d&endereco=d HTTP/1.1" 500 4349 http-bio-8080-exec-1 16064
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:30:11 -0300] "GET /addContato?nome=d&email=d&endereco=d HTTP/1.1" 500 4537 http-bio-8080-exec-3 15655
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:32:37 -0300] "GET /addContato?nome=d&email=d&endereco=d HTTP/1.1" 500 4473 http-bio-8080-exec-1 15936
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:36:21 -0300] "GET /addContato?nome=d&email=d&endereco=d HTTP/1.1" 500 4349 http-bio-8080-exec-1 16090
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:49:13 -0300] "GET /addContato?nome=d&email=d&endereco=d HTTP/1.1" 500 4260 http-bio-8080-exec-1 9328
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:51:47 -0300] "GET /addContato?nome=d&email=d&endereco=d HTTP/1.1" 500 3041 http-bio-8080-exec-2 3468
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:54:14 -0300] "GET /addContato?nome=d&email=d&endereco=d HTTP/1.1" 200 66 http-bio-8080-exec-2 2958
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:55:19 -0300] "GET /addContato?nome=douglas&email=dou%40&endereco=rua+tal HTTP/1.1" 200 72 http-bio-8080-exec-4 289
