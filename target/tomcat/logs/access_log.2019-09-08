@@ -12,3 +12,4 @@
 0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:51:47 -0300] "GET /addContato?nome=d&email=d&endereco=d HTTP/1.1" 500 3041 http-bio-8080-exec-2 3468
 0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:54:14 -0300] "GET /addContato?nome=d&email=d&endereco=d HTTP/1.1" 200 66 http-bio-8080-exec-2 2958
 0:0:0:0:0:0:0:1 - - [08/Sep/2019:21:55:19 -0300] "GET /addContato?nome=douglas&email=dou%40&endereco=rua+tal HTTP/1.1" 200 72 http-bio-8080-exec-4 289
+0:0:0:0:0:0:0:1 - - [08/Sep/2019:22:04:55 -0300] "GET /addContato?nome=douglas&email=douglatec%40gmail.com&endereco=Av.+Barao+de+Itapura HTTP/1.1" 200 74 http-bio-8080-exec-1 2190
