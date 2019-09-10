@@ -29,6 +29,27 @@ public class ContatoDAO {
         }
     }
 
+
+
+    public void remover(ContatoEntity contato) {
+
+        String query = "DELETE FROM contatos WHERE nome=?";
+
+        try {
+            PreparedStatement stmt = connection.prepareStatement(query);
+
+            stmt.setString(1, contato.getNome());
+
+            stmt.execute();
+            stmt.close();
+
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+
+
 }
 
 

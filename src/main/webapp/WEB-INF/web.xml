@@ -16,4 +16,16 @@
         <url-pattern>/addContato</url-pattern>
     </servlet-mapping>
 
-</web-app>
+
+    <servlet>
+    <servlet-name>removerContato</servlet-name>
+        <servlet-class>RemoverContatoServerlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>removerContato</servlet-name>
+        <url-pattern>/apagarContato</url-pattern>
+    </servlet-mapping>
+
+
+        </web-app>

@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [09/Sep/2019:21:51:41 -0300] "GET /apagarContato?nome=douglas&email=douglatec%40gmail.com&endereco=Av.+Barao+de+Itapura HTTP/1.1" 200 72 http-bio-8080-exec-2 7824
+0:0:0:0:0:0:0:1 - - [09/Sep/2019:21:51:41 -0300] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 17
